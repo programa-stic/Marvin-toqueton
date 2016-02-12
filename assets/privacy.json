@@ -1,0 +1,45 @@
+{
+	"android.telephony.TelephonyManager" : {
+	"getSimOperatorName" : "QUAM-SIM",
+	"getSimOperator" : "72201",
+	"getNetworkOperatorName" : "QUAM-NETWORK",
+	"getNetworkOperator" : "72207"
+},
+"com.android.internal.telephony.gsm.GSMPhone" : {
+	"getDeviceId" : "352738061926670",
+	"getImei" : "352738061926671",
+	"getSubscriberId" : "722010000906017",
+	"getLine1Number" : "1112341234"
+},
+
+"com.android.internal.telephony.gsm.CDMAPhone" : {
+	"getDeviceId" : "352738061926672",
+	"getMeid" : "352738061926673",
+	"getSubscriberId" : "722010000906017",
+	"getLine1Number" : "541101010101"
+},
+"com.android.internal.telephony.PhoneBase" :
+{
+	"getIccSerialNumber" : "8954010111009060172f"
+
+},
+"android.net.wifi.WifiInfo" : {
+	"getBSSID" : "de:ad:be:ef:aa:aa",
+	"getIpAddress" : "192.168.0.2",
+	"getMacAddress" : "de:ad:be:ef:bb:bb",
+	"getSSID" : "ThizIsMyWifi"
+},
+
+"com.android.settings.Utils" : {
+	"getWifiIpAddresses" : "192.168.0.2",
+	"getDefaultIpAddresses" : "192.168.0.2"
+},
+"android.location.LocationManager" : {
+	"requestLocationUpdates" : "-34.603773, -58.381700",
+	"getLastKnownLocation" : "-34.603773, -58.381700"
+},
+"android.net.wifi.WifiManager" : {
+	"getConfiguredNetworks" : "",
+	"getScanResults" : ""
+}
+}
