@@ -40,9 +40,9 @@ Instrumentation for methods that access to private information identifiers and r
 * Android rooted device with 4.3 or lower 
 * Cydia Substrate
 
-### Credits ###
+## Credits ##
 * Joaquín Rinaudo ([@xeroxnir](www.twitter.com/xeroxnir))
 * Juan Heguiabehere ([@jheguia](www.twitter.com/jheguia))
 
-### Who do I talk to? ###
+## Who do I talk to? ##
 * Send an email to stic at fundacionsadosky.org.ar
