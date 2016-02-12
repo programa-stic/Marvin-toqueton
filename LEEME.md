@@ -38,9 +38,9 @@ Los métodos instrumentados para acceder a la información privada del dispositi
 * Dispositivo rooteado con Android 4.3 o menor
 * Cydia Substrate
 
-### Créditos ###
+## Créditos ##
 * Joaquín Rinaudo ([@xeroxnir](www.twitter.com/xeroxnir))
 * Juan Heguiabehere ([@jheguia](www.twitter.com/jheguia))
 
-### Contacto ###
+## Contacto ##
 * Mandar un correo a stic en el dominio fundacionsadosky.org.ar
