@@ -39,8 +39,8 @@ Los métodos instrumentados para acceder a la información privada del dispositi
 * Cydia Substrate
 
 ## Créditos ##
-* Joaquín Rinaudo ([@xeroxnir](www.twitter.com/xeroxnir))
-* Juan Heguiabehere ([@jheguia](www.twitter.com/jheguia))
+* Joaquín Rinaudo ([@xeroxnir](https://www.twitter.com/xeroxnir))
+* Juan Heguiabehere ([@jheguia](https://www.twitter.com/jheguia))
 
 ## Contacto ##
 * Mandar un correo a stic en el dominio fundacionsadosky.org.ar

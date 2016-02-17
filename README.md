@@ -41,8 +41,8 @@ Instrumentation for methods that access to private information identifiers and r
 * Cydia Substrate
 
 ## Credits ##
-* Joaquín Rinaudo ([@xeroxnir](www.twitter.com/xeroxnir))
-* Juan Heguiabehere ([@jheguia](www.twitter.com/jheguia))
+* Joaquín Rinaudo ([@xeroxnir](https://www.twitter.com/xeroxnir))
+* Juan Heguiabehere ([@jheguia](https://www.twitter.com/jheguia))
 
 ## Who do I talk to? ##
 * Send an email to stic at fundacionsadosky.org.ar
